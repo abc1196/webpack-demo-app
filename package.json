@@ -1,0 +1,16 @@
+{
+  "name": "webpack-demo-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "repository": "https://github.com/abc1196/webpack-demo-app.git",
+  "author": "abc1196 <alejob_11@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
